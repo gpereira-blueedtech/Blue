@@ -1,5 +1,4 @@
 ::Organização de pastas através do Cmder
-clear
 @echo off
 echo Vamos trabalhar com o Shell Script?
 echo 'code1'
