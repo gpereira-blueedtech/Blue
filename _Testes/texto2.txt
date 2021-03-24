@@ -1,0 +1,4 @@
+::COMENTÁRIO AVULSO
+
+echo Segundo arquivo do projeto
+echo Dá um like pra ajudar o canal
